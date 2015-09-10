@@ -400,6 +400,7 @@
 				A69548111BA10E7C00C1BBA1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A69548121BA10E7C00C1BBA1 /* Build configuration list for PBXNativeTarget "KonachanFrameTests" */ = {
 			isa = XCConfigurationList;
@@ -408,6 +409,7 @@
 				A69548141BA10E7C00C1BBA1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
